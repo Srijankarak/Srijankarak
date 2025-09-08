@@ -104,7 +104,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Srijankarak&icon=5&color=6" alt="Profile Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Srijankarak&label=Profile%20Visits&color=0e75b6&style=flat" alt="Profile Visits"/>
 </p>
 
 ---
