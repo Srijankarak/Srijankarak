@@ -21,13 +21,19 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts" height="40" alt="Languages"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" height="40" alt="Languages"/>&nbsp;
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="40" alt="Frontend"/>&nbsp;
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend"/>&nbsp;
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="40" alt="Tools"/>&nbsp;
+  <!-- System Design & Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" alt="Cloud & System Design"/>&nbsp;
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-%230077B5.svg?style=for-the-badge&logo=archlinux&logoColor=white" height="28" alt="System Design"/>
 </p>
 
 ---
@@ -45,7 +51,7 @@
 
 - 🔨 Build and refine impactful **personal projects**  
 - 🌍 Contribute to **open-source communities**  
-- 📚 Stay updated with **modern backend architecture**  
+- 📚 Stay updated with **modern backend & system design**  
 - 🤝 Connect with **forward-thinking teams**  
 
 ---
@@ -76,7 +82,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srijankarak&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijankarak&theme=matrix&no-frame=false&no-bg=false&row=1&column=7" />
 </p>
 
 ---
