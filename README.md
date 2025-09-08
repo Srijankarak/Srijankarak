@@ -1,9 +1,6 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#4fc3f7;">Srijan Karak</span></h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 DSA Enthusiast | 🚀 Problem Solver</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC3F7&width=600&lines=Passionate+Full+Stack+Developer;Problem+Solver+%7C+DSA+Enthusiast;Lifelong+Learner+%26+Tech+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Srijan+Karak;💻+Full+Stack+Developer;🧠+DSA+Enthusiast;🚀+Problem+Solver;🌱+Lifelong+Learner+%26+Tech+Explorer" alt="Typing Animation" />
 </p>
 
 ---
@@ -20,20 +17,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" height="40" alt="Languages"/>&nbsp;
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="40" alt="Frontend"/>&nbsp;
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40" alt="Backend"/>&nbsp;
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="40" alt="Tools"/>&nbsp;
-  <!-- System Design & Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" height="40" alt="Cloud & System Design"/>&nbsp;
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/System%20Design-%230077B5.svg?style=for-the-badge&logo=archlinux&logoColor=white" height="28" alt="System Design"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nodejs,express,mongodb,html,css,tailwind,git,github,docker,postman,vscode,aws,gcp,azure" height="45"/>
 </p>
 
 ---
@@ -69,12 +53,20 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srijankarak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijankarak&theme=tokyonight&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srijankarak&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijankarak&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijankarak&theme=tokyonight&hide_border=false&layout=compact" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijankarak&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srijankarak&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -82,7 +74,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srijankarak&theme=matrix&no-frame=false&no-bg=false&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Srijankarak&theme=matrix&no-frame=false&row=1&column=7" />
 </p>
 
 ---
@@ -108,5 +100,3 @@
 </p>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
