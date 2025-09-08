@@ -1,4 +1,5 @@
-# **👋 Hi, I’m Srijan Karak**
+# **👋 Hello, I’m Srijan Karak**
+
 
 <u>**💫 About Me:**</u><br>
 💻 Full Stack Developer | 🧠 DSA & Problem-Solving Enthusiast  
